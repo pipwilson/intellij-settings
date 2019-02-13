@@ -1,0 +1,21 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S1220" />
+        <option value="squid:S1700" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.hq.vistair.com" />
+          <option name="name" value="Vistair sonar" />
+          <option name="login" value="phil.wilson" />
+          <password>dffadfdfdfd8dfcfdf8adfc7dfc5dfd8dfc4dfc3dfc4dfcddf8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
